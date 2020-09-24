@@ -1,0 +1,83 @@
+[
+    {
+        "s_id": "1",
+        "s_name": "Mukhyamantri Yuva Swavalamban Yojana",
+        "s_cast": "All",
+        "s_income": "6 Lac",
+        "s_edu": "12",
+        "s_stream": "Medical\/Engineering",
+        "s_percentage": "80"
+    },
+    {
+        "s_id": "2",
+        "s_name": "Mukhyamantri Yuva Swavalamban Yojana",
+        "s_cast": "All",
+        "s_income": "6 Lac",
+        "s_edu": "10",
+        "s_stream": "Diploma",
+        "s_percentage": "65"
+    },
+    {
+        "s_id": "3",
+        "s_name": "Food Bill Assistance to SC Students\r\n",
+        "s_cast": "SC",
+        "s_income": "2.5 Lac",
+        "s_edu": "12",
+        "s_stream": "Medical\/Engineering ",
+        "s_percentage": "35"
+    },
+    {
+        "s_id": "4",
+        "s_name": "Food Bill Assistance to SCBC Students\r\n",
+        "s_cast": "SEBC",
+        "s_income": "2.5 Lac",
+        "s_edu": "12",
+        "s_stream": "Medical\/Engineering",
+        "s_percentage": "35"
+    },
+    {
+        "s_id": "5",
+        "s_name": "Swami Vivekanand Stipend Scheme for Technical and Professional Courses (NTDNT)",
+        "s_cast": "NTDNT",
+        "s_income": "1.5 Lac",
+        "s_edu": "12",
+        "s_stream": "Medical\/Engineering",
+        "s_percentage": "35"
+    },
+    {
+        "s_id": "6",
+        "s_name": "Swami Vivekanand Stipend Scheme for Technical and Professional Courses (EBC)",
+        "s_cast": "EBC",
+        "s_income": "1.5 Lac",
+        "s_edu": "12",
+        "s_stream": "Medical\/Engineering",
+        "s_percentage": "35"
+    },
+    {
+        "s_id": "7",
+        "s_name": "Swami Vivekanand Stipend Scheme for Technical and Professional Courses (Minority)",
+        "s_cast": "Minority Community",
+        "s_income": "1.5 Lac",
+        "s_edu": "12",
+        "s_stream": "Medical\/Engineering",
+        "s_percentage": "35"
+    },
+    {
+        "s_id": "8",
+        "s_name": "Instrumental Assistance for Medical, Engineering, Diploma Students (SEBC)",
+        "s_cast": "SEBC",
+        "s_income": "2.5 Lac",
+        "s_edu": "12",
+        "s_stream": "Medical\/Engineering",
+        "s_percentage": "35"
+    },
+    {
+        "s_id": "9",
+        "s_name": "Instrumental Assistance for Medical, Engineering, Diploma Students (SEBC)",
+        "s_cast": "SEBC",
+        "s_income": "2.5 Lac",
+        "s_edu": "10",
+        "s_stream": "Diploma",
+        "s_percentage": "35"
+    }
+]
